@@ -35,6 +35,20 @@ header > img {
   border: 2px solid #ffffff;
 }
 
+footer{
+	margin-top: 3.5em;
+	padding: 0;
+	display: flex;
+	align-items: center;
+}
+
+footer > p {
+	display: flex;
+	margin: 0 auto;
+	text-align: center;
+	color: #fffa;
+}	
+
 ul{
   box-sizing: border-box;
   list-style: none;

@@ -36,7 +36,7 @@ header > img {
 }
 
 footer{
-	margin-top: 3.5em;
+  margin: auto;
 	padding: 0;
 	display: flex;
 	align-items: center;
@@ -47,7 +47,7 @@ footer > p {
 	margin: 0 auto;
 	text-align: center;
 	color: #fffa;
-}	
+}
 
 ul{
   box-sizing: border-box;
